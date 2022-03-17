@@ -1,7 +1,11 @@
 <p>
   <h3 align="center"><b>بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ</b></h3>
 </p>
-  [![Matrix Hasan -fullwidth](https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-hasanbasri-matrix.gif)](https://wa.me/6285156081434) 
+
+<div>
+<img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-hasanbasri-matrix.gif" width="1084" height="322"/>
+</div>
+
 <p>
   <h3 align="center"><b>الْمُؤْمِنُ يَأْلَفُ وَيُؤْلَفُ، وَلَا خَيْرَ فِيمَنْ لَا يَأْلَفُ، وَلَا يُؤْلَفُ، وَخَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ</b></h3>
 </p>
@@ -12,15 +16,18 @@
 
 <p align="center">
 <br>
+<a href="https://creatorb.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&up_message=Portfolio&url=https%3A%2F%2Fcreatorb.github.io%2F"></a>&nbsp;
+<a href="https://wa.me/6285156081434" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/creatorbe/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://situbondoprogrammer.blogspot.com/" target="_blank"><img alt="Personal" src="https://img.shields.io/website?style=for-the-badge&up_message=Blogs&url=https%3A%2F%2Fsitubondoprogrammer.blogspot.com%2F"></a>
+<a href="https://situbondoprogrammer.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" /></a>&nbsp;
+<!--<a href="https://situbondoprogrammer.blogspot.com/" target="_blank"><img alt="Personal" src="https://img.shields.io/website?style=for-the-badge&up_message=Blogs&url=https%3A%2F%2Fsitubondoprogrammer.blogspot.com%2F"></a>-->
 </p>
 
 <br>
 
 <img align="right" height="250px" alt="android developer" src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-android-recovery.gif" />
 
-### Just an Android Programmer become a Full Stack Developer
+### I'm Hasan, an Android Programmer become a Full Stack Developer
 - ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
 
 - 🌱 عِـشْ كَـرِيْمـًـــا أَوْ مُـتْ شَهِـيـْــدًا
