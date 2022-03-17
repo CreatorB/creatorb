@@ -27,7 +27,7 @@
 
 <img align="right" height="250px" alt="android developer" src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-android-recovery.gif" />
 
-### I'm Hasan, an Android Programmer become a Full Stack Developer
+##### Muslim android programmer become a full stack developer
 
 - ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
 
@@ -35,7 +35,4 @@
 
 - 🥅 فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ
 
-<br>
-
-<div align="center">
-<h3 align="center">&nbsp;❤️&nbsp;If you have any questions, projects, or just interested in talking? Just click one of badges above and I’ll get back to you soon.</h3>
+<div align="center"><h5 align="center">&nbsp;❤️&nbsp;If you have any questions, projects, or just interested in talking?<br/>Just click one of badges above with a brief message, and I’ll get back to you soon.</h5></div>
