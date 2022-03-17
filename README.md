@@ -3,7 +3,7 @@
 </p>
 
 <div>
-<img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-hasanbasri-matrix.gif" width="1084" height="322"/>
+<img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-hasanbasri-matrix.gif" width="1084" height="150"/>
 </div>
 
 <p>
@@ -16,11 +16,10 @@
 
 <p align="center">
 <br>
-<a href="https://creatorb.github.io/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&up_message=Portfolio&url=https%3A%2F%2Fcreatorb.github.io%2F"></a>&nbsp;
+<a href="https://creatorb.github.io/" target="_blank"><img alt="My" src="https://img.shields.io/website?style=for-the-badge&up_message=Portfolio&url=https%3A%2F%2Fcreatorb.github.io%2F"></a>
 <a href="https://wa.me/6285156081434" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/creatorbe/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://situbondoprogrammer.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" /></a>&nbsp;
-<!--<a href="https://situbondoprogrammer.blogspot.com/" target="_blank"><img alt="Personal" src="https://img.shields.io/website?style=for-the-badge&up_message=Blogs&url=https%3A%2F%2Fsitubondoprogrammer.blogspot.com%2F"></a>-->
 </p>
 
 <br>
@@ -28,6 +27,7 @@
 <img align="right" height="250px" alt="android developer" src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-android-recovery.gif" />
 
 ### I'm Hasan, an Android Programmer become a Full Stack Developer
+
 - ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
 
 - 🌱 عِـشْ كَـرِيْمـًـــا أَوْ مُـتْ شَهِـيـْــدًا
@@ -36,7 +36,5 @@
 
 <br>
 
-<br>
-
 <div align="center">
-<h3 align="center">Feel free &nbsp;❤️&nbsp; to reuse my repositories without asking permission because it has been granted to everyone.</h3>
+<h3 align="center">&nbsp;❤️&nbsp;If you have any questions, projects, or just interested in talking? Just click one of badges above and I’ll get back to you soon.</h3>
