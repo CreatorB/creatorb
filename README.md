@@ -37,14 +37,4 @@
 
 <div align="center"><h5 align="center">&nbsp;❤️&nbsp;If you have any questions, projects, or just interested in talking?<br/>Just click one of badges above with a brief message, and I’ll get back to you soon.</h5></div>
 
-<br/>
-<table width=100%>
-  <tr>
-    <td align="center">Current Editor</td>
-    <td align="center">Current Code</td>
-  </tr>
-  <tr>
-    <td WIDTH="40%"><img src="https://wakatime.com/share/@creatorbe/764f2f6a-cad2-4368-99de-6f8355f0e67a.svg" width=100% height=400></td>
-    <td WIDTH="60%"><img src="https://wakatime.com/share/@creatorbe/988250c5-e207-4800-af36-e1b8ce48fe4a.svg" width=100% height=400></td>
-  </tr>
- </table>
+![current-lang-chart](https://wakatime.com/share/@creatorbe/58be3b28-f9ae-4c33-9bb6-d78b036d2e13.svg)
