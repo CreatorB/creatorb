@@ -36,5 +36,3 @@
 - 🥅 فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ
 
 <div align="center"><h5 align="center">&nbsp;❤️&nbsp;If you have any questions, projects, or just interested in talking?<br/>Just click one of badges above with a brief message, and I’ll get back to you soon.</h5></div>
-
-![current-lang-chart](https://wakatime.com/share/@creatorbe/58be3b28-f9ae-4c33-9bb6-d78b036d2e13.svg)
