@@ -38,6 +38,8 @@
 <div align="center"><h5 align="center">&nbsp;❤️&nbsp;If you have any questions, projects, or just interested in talking?<br/>Just click one of badges above with a brief message, and I’ll get back to you soon.</h5></div>
 
 
-<br>
+<br/>
 
-[![Hasan's coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=creatorbe&layout=compact&custom_title=Coding%20Stats)](https://wakatime.com/@creatorbe)
+#### [Last Week Code Stats](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hasan's coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=creatorbe&layout=compact&hide_title=true)](https://wakatime.com/@creatorbe)
