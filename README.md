@@ -22,12 +22,9 @@
 <a href="https://www.linkedin.com/in/creatorbe/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://situbondoprogrammer.blogspot.com/search?&max-results=7" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" /></a>&nbsp;
 </p>
-
-<br>
-
+<br/>
 <img align="right" height="250px" alt="android developer" src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-android-recovery.gif" />
-
-##### Muslim android programmer become a full stack developer
+<div align="left"><h5 align="left">Muslim android programmer become a full stack developer</h5></div>
 
 - ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
 
@@ -35,10 +32,7 @@
 
 - 🥅 فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ
 
-<div align="center"><h5 align="center">&nbsp;❤️&nbsp;If you have any questions, projects, or just interested in talking?<br/>Just click one of badges above with a brief message, and I’ll get back to you soon.</h5></div>
-
-
-<br/>
+<div align="center"><h5 align="center">&nbsp;❤️&nbsp;If you have any questions, projects, or just interested in discuss?<br/>Just click one of badges above with a brief message, and I’ll get back to you soon.</h5></div>
 
 #### [Last Week Code Stats](https://github.com/anuraghazra/github-readme-stats)
 
