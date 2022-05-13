@@ -24,7 +24,7 @@
 </p>
 <br/>
 <img align="right" height="250px" alt="android developer" src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-android-recovery.gif" />
-<div align="left"><h5 align="left">Muslim android programmer become a full stack developer</h5></div>
+<div align="left"><h5 align="left">Muslim, who's playing vim even in android studio.</h5></div>
 
 - ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
 
