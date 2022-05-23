@@ -23,8 +23,14 @@
 <a href="https://situbondoprogrammer.blogspot.com/search?&max-results=7" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger" /></a>&nbsp;
 </p>
 <br/>
-<img align="right" height="250px" alt="android developer" src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-android-recovery.gif" />
-<div align="left"><h5 align="left">Muslim, who's playing vim even in android studio.</h5></div>
+
+ ---
+
+<p>
+  <a href="https://wa.me/6285156081434"><img height="200px" width="250" align='right' src="http://3.bp.blogspot.com/-uj3M8adGxXc/WHqwIdXxyjI/AAAAAAAACMQ/UBu80chQ9WUbbVvEZFsAkx7ROE4gHIvsQCK4B/s1600/inifinix%2Bhot%2B2%2Bhard%2Breset.PNG">
+</p>
+
+#### Just a Muslim man :point_up: Who's playing vim even in android studio :metal:
 
 - ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
 
@@ -32,7 +38,11 @@
 
 - 🥅 فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ
 
-<div align="center"><h5 align="center">&nbsp;❤️&nbsp;If you have any questions, projects, or just interested in discuss?<br/>Just click one of badges above with a brief message, and I’ll get back to you soon.</h5></div>
+
+
+<h5 align="left">&nbsp;💌&nbsp;If you have any questions, projects, or just interested in discuss?<br/>&nbsp;❤️&nbsp;Just click one of badges above with a brief message, and I’ll get back to you soon.</h5>
+
+---
 
 #### [Last Week Code Stats](https://github.com/anuraghazra/github-readme-stats)
 
