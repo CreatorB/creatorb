@@ -30,7 +30,7 @@
   <a href="https://wa.me/6285156081434"><img height="200px" width="250" align='right' src="http://3.bp.blogspot.com/-uj3M8adGxXc/WHqwIdXxyjI/AAAAAAAACMQ/UBu80chQ9WUbbVvEZFsAkx7ROE4gHIvsQCK4B/s1600/inifinix%2Bhot%2B2%2Bhard%2Breset.PNG">
 </p>
 
-#### Just a Muslim man :point_up: Who's playing vim even in android studio :metal:
+#### Muslim man :point_up: Who's playing vim even in android studio :metal:
 
 - ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
 
