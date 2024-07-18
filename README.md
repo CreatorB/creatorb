@@ -31,8 +31,10 @@
   <a href="https://wa.me/6285156081434"><img height="200px" width="250" align='right' src="http://3.bp.blogspot.com/-uj3M8adGxXc/WHqwIdXxyjI/AAAAAAAACMQ/UBu80chQ9WUbbVvEZFsAkx7ROE4gHIvsQCK4B/s1600/inifinix%2Bhot%2B2%2Bhard%2Breset.PNG">
 </p>
 
-#### Muslim man :point_up: Who's playing vim even in android studio :metal:
-
+<p>
+  
+Muslim man :point_up: who VIM-ing in an IDE :metal:
+<br/>
 - ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
 
 - 🌱 عِـشْ كَـرِيْمـًـــا أَوْ مُـتْ شَهِـيـْــدًا
@@ -45,6 +47,6 @@
 
 ---
 
-#### [Last Week Code Stats](https://github.com/anuraghazra/github-readme-stats)
+#### Typing Code Records
 
-[![Hasan's coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=creatorbe&layout=compact&hide_title=true)](https://wakatime.com/@creatorbe)
+[<img src="https://wakatime.com/share/@creatorbe/d9af5f21-25a9-4b05-80de-c9b4af7d9646.svg" width="100%">](https://wakatime.com/@creatorbe)
