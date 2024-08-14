@@ -45,6 +45,6 @@ Muslim man :point_up: who VIM-ing in an IDE :metal:
 
 ---
 
-#### Latest Type
+#### Latest Typing ⌨️
 
 [<img src="https://wakatime.com/share/@creatorbe/d9af5f21-25a9-4b05-80de-c9b4af7d9646.svg" width="100%">](https://wakatime.com/@creatorbe)
