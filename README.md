@@ -31,7 +31,7 @@
 
 <p>
   
-Muslim man :point_up: who VIM-ing an IDE :metal:
+Typists, VIM-ing an IDE :metal:
 <br/>
 - ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
 
