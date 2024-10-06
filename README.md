@@ -31,7 +31,7 @@
 
 <p>
   
-Typists, VIM-ing in an IDE :metal:
+Typists, [VIM-ing](https://github.com/CreatorB/vim-fast-setup) in an IDE :metal:
 <br/>
 - ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
 
