@@ -28,7 +28,7 @@
 Just an Al-faqeer, whom Allah has blessed with a love of learning and [VIM-ing](https://github.com/CreatorB/vim-fast-setup) an IDE 🤘  
 
 *"My dopamine? Your problem.*  
-*The climax? When I'm solving it with **bits, cables, and creativity**."*
+*The climax? When I'm solving it with **bits, cables, and creativity**. Bi'idznillahi ta'ala 💚"*
   
 ---
 
@@ -45,6 +45,6 @@ Just an Al-faqeer, whom Allah has blessed with a love of learning and [VIM-ing](
 </p>
 
 <h5 align="center">
-💌 Have any questions, projects, or just want to say hi?<br/>
-❤️ Click one of the badges above and send me a message!
+👋 Have any questions, projects, or just want to say hi?<br/>
+Click one of the badges above and send me a message! 💌
 </h5>
