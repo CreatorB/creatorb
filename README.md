@@ -13,23 +13,25 @@
 </p>
 
 <p align="center">
-  <em>"The believer is likable, easily approachable, and pleasant when approaching others. And there is no good in one who is difficult to approach and harsh with others. <strong>And the best of people are those who are most beneficial to people</strong>"</em>
+  <em>"The believer is likable, easily approachable, and pleasant when approaching others. And there is no good in one who is difficult to approach and harsh with others. <strong>And the best of people are those who are most beneficial to people</strong>"</em><br/>
+<br/> 🥅 فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ
+  <br/> ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
+<br/> 🌱 عِـشْ كَـرِيْمـًـــا أَوْ مُـتْ شَهِـيـْــدًا
 </p>
-
----
-
+<br/>
 <div align="center">
   <img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/hasan-creatorbe-cctv-obs-streaming.jpg" alt="Device" width="500" />
 </div>
 
-<p align="center">
-  Just an Al-faqeer, whom Allah has blessed with a love of learning and <a href="https://github.com/CreatorB/vim-fast-setup">VIM-ing</a> an IDE 🤘<br/>
-  <br/> ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
-  <br/> 🌱 عِـشْ كَـرِيْمـًـــا أَوْ مُـتْ شَهِـيـْــدًا
-  <br/> 🥅 فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ
-</p>
-
 ---
+
+Just an Al-faqeer, whom Allah has blessed with a love of learning and [VIM-ing](https://github.com/CreatorB/vim-fast-setup) an IDE 🤘  
+
+*"My dopamine? Your problem.*  
+*The climax? When I'm solving it with **bits, cables, and creativity**."*
+  
+---
+
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1oveQMGdYK6KNpTYmZ5OlkjvRroiQ9Qx4" target="_blank">
     <img alt="CV" src="https://img.shields.io/badge/Curriculum%20Vitae-FFC300?style=for-the-badge" />
