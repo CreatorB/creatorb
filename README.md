@@ -32,6 +32,8 @@ Just an Al-faqeer, whom Allah has blessed with a love of learning and [VIM-ing](
   
 ---
 
+[<img src="https://wakatime.com/share/@creatorbe/7fbf42be-14e2-4cb5-8ff8-9efdd35583cd.svg" width="100%">](https://wakatime.com/@creatorbe)
+
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1oveQMGdYK6KNpTYmZ5OlkjvRroiQ9Qx4" target="_blank">
     <img alt="CV" src="https://img.shields.io/badge/Curriculum%20Vitae-FFC300?style=for-the-badge" />
