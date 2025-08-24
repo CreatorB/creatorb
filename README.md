@@ -50,3 +50,5 @@ Just an Al-faqeer, whom Allah has blessed with a love of learning and [VIM-ing](
 👋 Have any questions, projects, or just want to say hi?<br/>
 Click one of the badges above and send me a message! 💌
 </h5>
+
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
