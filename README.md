@@ -28,7 +28,7 @@
 Just an Al-faqeer, whom Allah has blessed with a love of learning and [VIM-ing](https://github.com/CreatorB/vim-fast-setup) an IDE 🤘  
 
 *"My dopamine? Your problem.*  
-*The climax? When I'm solving it with **bits, cables, and creativity**. Bi'idznillahi ta'ala 💚"*
+*The climax? When I'm solving it with **syntax codes, cables, and logics**. Bi'idznillahi ta'ala 💚"*
   
 ---
 
