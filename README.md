@@ -20,7 +20,9 @@
 </p>
 <br/>
 <div align="center">
-  <a href="https://youtu.be/AvPbu1M2GhU" target="_blank"><img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/hasan-creatorbe-cctv-obs-streaming.jpg" alt="Device" width="500" /></a>
+  <a href="https://youtu.be/AvPbu1M2GhU" target="_blank" rel="noopener noreferrer" style="display: inline-block;"><img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/hasan-creatorbe-cctv-obs-streaming.jpg" alt="Device" width="500" /></a>
+</div>
+
 ---
 
 Just an Al-faqeer, whom Allah has blessed with a love of learning and [VIM-ing](https://github.com/CreatorB/vim-fast-setup) an IDE 🤘  
