@@ -20,9 +20,7 @@
 </p>
 <br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/hasan-creatorbe-cctv-obs-streaming.jpg" alt="Device" width="500" />
-</div>
-
+  <a href="https://youtu.be/AvPbu1M2GhU" target="_blank"><img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/hasan-creatorbe-cctv-obs-streaming.jpg" alt="Device" width="500" /></a>
 ---
 
 Just an Al-faqeer, whom Allah has blessed with a love of learning and [VIM-ing](https://github.com/CreatorB/vim-fast-setup) an IDE 🤘  
