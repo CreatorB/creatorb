@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Hi, I'm Hasan a.k.a `creatorbe` :shipit: -- A Software Engineer with expertise in building scalable web and mobile applications. I enjoy solving complex problems and creating impactful digital solutions.
+Hi, I'm Hasan a.k.a `creatorbe` 🔬 -- A Software Engineer with expertise in building scalable web and mobile applications. I enjoy solving complex problems and creating impactful digital solutions.
 
 ---
 
@@ -84,11 +84,11 @@ Beyond development, I also have experience in:
 
 - [ ] Advanced math and physics
 - [ ] Electrical and Electronic Engineering
+- [ ] Microcontroller (Arduino), Single-Board (Raspberry Pi) and anything related to IoT projects
+- [ ] Machine Learning with Python
+- [ ] Advanced Kubernetes
 - [ ] Go (Golang) for backend services & .NET
 - [ ] AWS Certified Solutions Architect
-- [ ] Advanced Kubernetes
-- [ ] Machine Learning basics with Python
-- [ ] IoT & Arduino
 
 ---
 
