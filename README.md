@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Hi, I'm Hasan a.k.a `creatorbe` :shipit: -- A Software Engineer expertise in building scalable web and mobile applications. I enjoy solving complex problems and creating impactful digital solutions.
+Hi, I'm Hasan a.k.a `creatorbe` :shipit: -- A Software Engineer with expertise in building scalable web and mobile applications. I enjoy solving complex problems and creating impactful digital solutions.
 
 ---
 
