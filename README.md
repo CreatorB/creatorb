@@ -1,38 +1,70 @@
 <p align="center">
-  <strong>بِسْــــــــــــــــــمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ</strong>
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/c/HasanBasriCreatorbe" target="_blank">
     <img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/creatorbe-hasanbasri-matrix.gif" alt="Hasan in Matrix" style="max-width: 100%; height: auto;" />
   </a>
 </p>
 
-<p align="center">
-  <strong>الْمُؤْمِنُ يَأْلَفُ وَيُؤْلَفُ، وَلَا خَيْرَ فِيمَنْ لَا يَأْلَفُ، وَلَا يُؤْلَفُ، وَخَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ</strong>
-</p>
+Hi, I'm Hasan a.k.a `creatorbe` :shipit: -- A Software Engineer expertise in building scalable web and mobile applications. I enjoy solving complex problems and creating impactful digital solutions.
 
-<p align="center">
-  <em>"The believer is likable, easily approachable, and pleasant when approaching others. And there is no good in one who is difficult to approach and harsh with others. <strong>And the best of people are those who are most beneficial to people</strong>"</em><br/>
-<br/> 🥅 فَمَنْ زُحْزِحَ عَنِ النَّارِ وَأُدْخِلَ الْجَنَّةَ فَقَدْ فَازَ
-  <br/> ⏰ مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيْهِ
-<br/> 🌱 عِـشْ كَـرِيْمـًـــا أَوْ مُـتْ شَهِـيـْــدًا
-</p>
-<br/>
+---
+
+## 🛠️ Tech Stack
+
+### **🌐 Web Development**
+- **Frontend:** Next.js, React.js, TypeScript, Vue, Tailwind CSS, Bootstrap
+- **Backend:** PHP (Laravel, CodeIgniter), Node.js, Express.js, Spring boot
+- **API:** REST, GraphQL, WebSocket
+- **CMS:** WordPress, Strapi, Odoo
+
+### **📱 Mobile Development**
+- **Cross-platform:** Flutter, React Native
+- **Native:** Java | Kotlin (Android), Swift (iOS)
+
+### **:floppy_disk: Databases**
+- **SQL:** MySQL, PostgreSQL, SQLite
+- **NoSQL:** MongoDB, Firebase Firestore
+- **Caching:** Redis, Memcached
+
+### **☁️ DevOps & Cloud**
+- **Cloud:** AWS, Google Cloud, DigitalOcean
+- **CI/CD:** GitHub Actions, GitLab CI, Jenkins
+- **Containerization:** Docker, Docker Compose
+- **Orchestration:** Kubernetes (Basic)
+
+### **⚙️ Other Tools & Skills**
+- **Version Control:** Git, GitHub, GitLab, Bitbucket
+- **Testing:** Jest, PHPUnit, Postman
+- **Monitoring:** Sentry, Google Analytics
+- **Design / Multi Media Tools:** Figma, Inkscape, Davinci Resolve
+
+---
+
+## 👨‍💻 IT Generalist Skills
+
+Beyond development, I also have experience in:
+
+- **IT Educator:** Office productivity (Word, Excel, Powerpoint), Basic Design, Fundamental Programming.
+- **IT Infrastructure:** Server setup & maintenance (Linux/Windows), Router MikroTik | UniFi | Aruba Switch - Network | Phone PABX | CCTV Installation
+- **Cybersecurity:** Basic security practices, SSL/TLS, vulnerability awareness
+- **System Administration:** Bash scripting, cron jobs, log monitoring
+- **Technical Support:** Troubleshooting, user training, documentation
+- **Project Management:** Agile/Scrum, Jira, Trello, GitHub Projects
+
+## :rocket: Some Exposed Work
+
 <div align="center">
   <a href="https://www.youtube.com/@HasanBasriCreatorbe" target="_blank" rel="noopener noreferrer" style="display: inline-block;"><img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/hasan-creatorbe-cctv-obs-streaming.webp" alt="Device" width="500" /></a>
 </div>
 
 ---
 
-Just an Al-faqeer, whom Allah has blessed with a love of learning and [VIM-ing](https://github.com/CreatorB/vim-fast-setup) an IDE 🤘  
-
-*"My dopamine? Your problem.*  
-*The climax? When I'm solving it with **syntax codes, cables, and logics**. Bi'idznillahi ta'ala 💚"*
-  
----
+## 📊 Coding Stats
 
 [<img src="https://wakatime.com/share/@creatorbe/7fbf42be-14e2-4cb5-8ff8-9efdd35583cd.svg" width="100%">](https://wakatime.com/@creatorbe)
+
+---
+
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1oveQMGdYK6KNpTYmZ5OlkjvRroiQ9Qx4" target="_blank">
@@ -46,11 +78,22 @@ Just an Al-faqeer, whom Allah has blessed with a love of learning and [VIM-ing](
   </a>
 </p>
 
-<h5 align="center">
-👋 Have any questions, projects, or just want to say hi?<br/>
-Click one of the badges above and send me a message! 💌
-</h5>
+---
+
+## 📚 Currently Learning / Exploring
+
+- [ ] Advanced math and physics
+- [ ] Electrical and Electronic Engineering
+- [ ] Go (Golang) for backend services & .NET
+- [ ] AWS Certified Solutions Architect
+- [ ] Advanced Kubernetes
+- [ ] Machine Learning basics with Python
+- [ ] IoT & Arduino
 
 ---
 
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+## 💡 ~~Philosophy~~ Hadith
+
+> *"الْمُؤْمِنُ يَأْلَفُ وَيُؤْلَفُ، وَلَا خَيْرَ فِيمَنْ لَا يَأْلَفُ، وَلَا يُؤْلَفُ، وَخَيْرُ النَّاسِ أَنْفَعُهُمْ لِلنَّاسِ"*
+
+---
