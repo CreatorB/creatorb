@@ -50,7 +50,7 @@ Beyond development, I also have experience in:
 - **Technical Support:** Troubleshooting, user training, documentation
 - **Project Management:** Agile/Scrum, Jira, Trello, GitHub Projects
 
-## :rocket: Some Exposed Work
+## :rocket: Exposed Projects
 
 <div align="center">
   <a href="https://www.youtube.com/@HasanBasriCreatorbe" target="_blank" rel="noopener noreferrer" style="display: inline-block;"><img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/hasan-creatorbe-cctv-obs-streaming.webp" alt="Device" width="500" /></a>
