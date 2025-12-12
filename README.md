@@ -82,13 +82,14 @@ Beyond development, I also have experience in:
 
 ## 📚 Currently Learning / Exploring
 
-- [ ] Advanced math and physics
+- [ ] Advanced Math and Physics
 - [ ] Electrical and Electronic Engineering
 - [ ] Microcontroller (Arduino), Single-Board (Raspberry Pi) and anything related to IoT projects
 - [ ] Machine Learning with Python
-- [ ] Advanced Kubernetes
 - [ ] Go (Golang) for backend services & .NET
 - [ ] AWS Certified Solutions Architect
+- [ ] Advanced Kubernetes
+- [ ] Advanced Cybersecurity & Ethical Hacking
 
 ---
 
