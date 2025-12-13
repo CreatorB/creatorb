@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Hi, I'm Hasan a.k.a `creatorbe` 🔬 -- A Software Engineer with expertise in building scalable web and mobile applications. I enjoy solving complex problems and creating impactful digital solutions.
+Hi 👋 I'm Hasan a.k.a `creatorbe` 🔬 -- A Software Engineer with expertise in building scalable web and mobile applications. I enjoy solving complex problems and creating impactful digital solutions.
 
 ---
 
@@ -12,7 +12,7 @@ Hi, I'm Hasan a.k.a `creatorbe` 🔬 -- A Software Engineer with expertise in bu
 
 ### **🌐 Web Development**
 - **Frontend:** Next.js, React.js, TypeScript, Vue, Tailwind CSS, Bootstrap
-- **Backend:** PHP (Laravel, CodeIgniter), Node.js, Express.js, Spring boot
+- **Backend:** PHP (Laravel, CodeIgniter), Node.js, Express.js, Spring boot, FastAPI
 - **API:** REST, GraphQL, WebSocket
 - **CMS:** WordPress, Strapi, Odoo
 
@@ -84,10 +84,11 @@ Beyond development, I also have experience in:
 
 - [ ] Advanced Math and Physics
 - [ ] Electrical and Electronic Engineering
-- [ ] Microcontroller (Arduino), Single-Board (Raspberry Pi) and anything related to IoT projects
+- [ ] Quantum Engineering
 - [ ] Machine Learning with Python
-- [ ] Go (Golang) for backend services & .NET
+- [ ] Microcontroller (Arduino), Single-Board (Raspberry Pi) and anything related to IoT projects
 - [ ] AWS Certified Solutions Architect
+- [ ] Go (Golang) for backend services & .NET
 - [ ] Advanced Kubernetes
 - [ ] Advanced Cybersecurity & Ethical Hacking
 
