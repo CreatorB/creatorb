@@ -36,6 +36,8 @@ Hi 👋 I'm Hasan a.k.a `creatorbe` 🔬 -- an Avatar with expertise in building
 **☁️ DevOps** @ <a href="https://omnisains.id" target="_blank">Yayasan Omnisains Indonesia</a>
 - Related to all full-stack systems I have developed | [Hidden Information]
 
+**:telescope: Finding** - Open to remote work and relocation opportunities @ Saudi Arabia.
+
 ## :video_camera: Exposed Projects
 
 <div align="center">
