@@ -4,53 +4,39 @@
   </a>
 </p>
 
-Hi 👋 I'm Hasan a.k.a `creatorbe` 🔬 -- A Software Engineer with expertise in building scalable web and mobile applications. I enjoy solving complex problems and creating impactful digital solutions.
+Hi 👋 I'm Hasan a.k.a `creatorbe` 🔬 -- an Avatar with expertise in building scalable web and mobile applications. I enjoy solving complex problems and creating impactful digital solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## :rocket: Current Mission
 
-### **🌐 Web Development**
-- **Frontend:** Next.js, React.js, TypeScript, Vue, Tailwind CSS, Bootstrap
-- **Backend:** PHP (Laravel, CodeIgniter), Node.js, Express.js, Spring boot, FastAPI
-- **API:** REST, GraphQL, WebSocket
-- **CMS:** WordPress, Strapi, Odoo
+**:robot: AI Engineer** @ [Hidden Information]
+- <a href="https://github.com/CreatorB/drupal-ai" target="_blank">Fuzzy Search & Chat Bot</a> | Drupal & AI Models
 
-### **📱 Mobile Development**
-- **Cross-platform:** Flutter, React Native
-- **Native:** Java | Kotlin (Android), Swift (iOS)
+**👨‍💻📱 Fullstack Developer** @ <a href="https://wolftagon.com" target="_blank">Wolftagon</a>
+- <a href="https://med-map.org" target="_blank">Medical Manufacturers Platform</a> | NextJS-AdonisJS-Flutter
+- <a href="https://kolektibles.com" target="_blank">Kolektibles Card Collectors</a> | GoLang-Flutter
 
-### **:floppy_disk: Databases**
-- **SQL:** MySQL, PostgreSQL, SQLite
-- **NoSQL:** MongoDB, Firebase Firestore
-- **Caching:** Redis, Memcached
+**🌐 Web Developer** @ <a href="https://solve8.co.id/" target="_blank">Solve8</a>
+- <a href="https://dashboard.digiport.telkomsel.com/" target="_blank">Telkomsel Product</a> | NextJS-TypeScript|Laravel
 
-### **☁️ DevOps & Cloud**
-- **Cloud:** AWS, Google Cloud, DigitalOcean
-- **CI/CD:** GitHub Actions, GitLab CI, Jenkins
-- **Containerization:** Docker, Docker Compose
-- **Orchestration:** Kubernetes (Basic)
+**⚙️ GoLang Developer** @ <a href="https://hydsoft.id/" target="_blank">HydSoft</a>
+- <a href="https://hydsoft.id" target="_blank">Islamic Product</a> | Hyd Script (ETengo)-GoLang
 
-### **⚙️ Other Tools & Skills**
-- **Version Control:** Git, GitHub, GitLab, Bitbucket
-- **Testing:** Jest, PHPUnit, Postman
-- **Monitoring:** Sentry, Google Analytics
-- **Design / Multi Media Tools:** Figma, Inkscape, Davinci Resolve
+**🛠️ IT Generalist** @ <a href="https://syathiby.id" target="_blank">Ma'had al-Imam asy-Syathiby</a>
+- <a href="https://creatorbe.github.io/fullstack-it/2025/11/03/it-infrastructure-handbook.html" target="_blank">IT Infrastructure</a> | Networking-MikroTik-Unify-PABX-ITteacher
+- <a href="https://play.google.com/store/apps/developer?id=BIN+ABBAS" target="_blank">Islamic Boarding Scholl Apps</a> | Flutter
+- <a href="https://syathiby.id" target="_blank">Syathiby.id</a> | WordPress
+- <a href="https://psb.syathiby.id" target="_blank">PSB Syathiby</a> | PHP Native
+- <a href="https://github.com/CreatorB/twibbon-rodja" target="_blank">Rodja Twibbon</a> | Vite
+- <a href="https://github.com/CreatorB/laravel-daurah" target="_blank">Daurah Syaikh Management</a> | Laravel
+- <a href="https://github.com/CreatorB/kias_syathiby" target="_blank">KIAS - Islamic & Arabic Course</a> | TALL Stack
+- <a href="https://github.com/CreatorB/NextJS-mahadaly" target="_blank">Ma'had Aly - University Site</a> | NextJS-TypeScript
 
----
+**☁️ DevOps** @ <a href="https://omnisains.id" target="_blank">Yayasan Omnisains Indonesia</a>
+- Related to all full-stack systems I have developed | [Hidden Information]
 
-## 👨‍💻 IT Generalist Skills
-
-Beyond development, I also have experience in:
-
-- **IT Educator:** Office productivity (Word, Excel, Powerpoint), Basic Design, Fundamental Programming.
-- **IT Infrastructure:** Server setup & maintenance (Linux/Windows), Router MikroTik | UniFi | Aruba Switch - Network | Phone PABX | CCTV Installation
-- **Cybersecurity:** Basic security practices, SSL/TLS, vulnerability awareness
-- **System Administration:** Bash scripting, cron jobs, log monitoring
-- **Technical Support:** Troubleshooting, user training, documentation
-- **Project Management:** Agile/Scrum, Jira, Trello, GitHub Projects
-
-## :rocket: Exposed Projects
+## :video_camera: Exposed Projects
 
 <div align="center">
   <a href="https://www.youtube.com/@HasanBasriCreatorbe" target="_blank" rel="noopener noreferrer" style="display: inline-block;"><img src="https://raw.githubusercontent.com/CreatorB/creatorb/main/hasan-creatorbe-cctv-obs-streaming.webp" alt="Device" width="500" /></a>
@@ -77,20 +63,6 @@ Beyond development, I also have experience in:
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
-
----
-
-## 📚 Currently Learning / Exploring
-
-- [ ] Advanced Math and Physics
-- [ ] Electrical and Electronic Engineering
-- [ ] Quantum Engineering
-- [ ] Machine Learning with Python
-- [ ] Microcontroller (Arduino), Single-Board (Raspberry Pi) and anything related to IoT projects
-- [ ] AWS Certified Solutions Architect
-- [ ] Go (Golang) for backend services & .NET
-- [ ] Advanced Kubernetes
-- [ ] Advanced Cybersecurity & Ethical Hacking
 
 ---
 
