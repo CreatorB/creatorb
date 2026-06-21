@@ -24,7 +24,7 @@ Hi 👋 I'm Hasan a.k.a `creatorbe` 🔬 -- an Avatar with expertise in building
 - <a href="https://hydsoft.id" target="_blank">Islamic Product</a> | Hyd Script (ETengo)-GoLang
 
 **🛠️ IT Generalist** @ <a href="https://syathiby.id" target="_blank">Ma'had al-Imam asy-Syathiby</a>
-- <a href="https://creatorbe.github.io/fullstack-it/2025/11/03/it-infrastructure-handbook.html" target="_blank">IT Infrastructure</a> | Networking-MikroTik-Unify-PABX-ITteacher
+- <a href="https://creatorbe.github.io/fullstack-it/2025/11/03/it-infrastructure-handbook.html" target="_blank">IT Infra</a> | Hardware/Software-ImgRunner-R.Pi-RFID-MikroTik-Unify-PABX-ITteacher
 - <a href="https://play.google.com/store/apps/developer?id=BIN+ABBAS" target="_blank">Islamic Boarding Scholl Apps</a> | Flutter
 - <a href="https://syathiby.id" target="_blank">Syathiby.id</a> | WordPress
 - <a href="https://psb.syathiby.id" target="_blank">PSB Syathiby</a> | PHP Native
