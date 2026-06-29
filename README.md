@@ -4,7 +4,7 @@
   </a>
 </p>
 
-Hi 👋 I'm Hasan a.k.a `creatorbe` 🔬 -- a writer at [creatorbe.github.io](https://creatorbe.github.io). I also enjoy typing string at a steady pace of around 80 WPM, long before AI made it easier, haha. But solving and creating impactful digital solutions is still what gives me a dopamine rush.
+Hi 👋 I'm Hasan a.k.a `creatorbe` 🔬 -- Software Engineer and Author at [creatorbe.github.io](https://creatorbe.github.io). I also enjoy typing string at a steady pace of around 80 WPM, long before AI made it easier, haha. But solving and creating impactful digital solutions is still what gives me a dopamine rush.
 
 ---
 
